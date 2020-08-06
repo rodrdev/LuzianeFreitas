@@ -1,7 +1,3 @@
-# Luziane Freitas
-
-
-
 ## Olá pessoal 👋
 Sou apaixonada por tecnologia. E estou buscando por oportunidades ligadas a area de desenvolvimento web 🖥️
 
