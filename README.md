@@ -1,16 +1,18 @@
-### Hi there 👋
+# Luziane Freitas
 
+
+
+## Olá pessoal 👋
+Sou apaixonada por tecnologia. E estou buscando por oportunidades ligadas a area de desenvolvimento web 🖥️
+
+- 🤓 Estou no ultimo ano de Engenharia de Computação;
+- 🔭 Desejo trabalhar com desenvolvimento web;
+- 🌱 Minha stack atual é HTML | CSS | JavaScript | Node;
+- 👯 Possuo alguns trabalhos desenvolvidos em grupo na faculdade;
+- 🤔 Posso te ajudar no que for necessário relacionado ao front-end;
+- 💬 Sobre mim: Amo tecnologias, games VALORANT e animes;
+- 📫 Entre em contato comigo: [linkedin](https://www.linkedin.com/in/freitasluziane/) | [Email](freitas.lu@outlook.com)
 <!--
-**LuzianeFreitas/LuzianeFreitas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
