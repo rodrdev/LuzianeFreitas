@@ -1,8 +1,8 @@
 ## Olá pessoal 👋
-Sou apaixonada por tecnologia. E estou buscando por oportunidades ligadas a area de desenvolvimento web 🖥️
+Sou apaixonada por tecnologia 🖥️
 
 - 🤓 Estou no ultimo ano de Engenharia de Computação;
-- 🔭 Desejo trabalhar com desenvolvimento web;
+- 🔭 DEsenvolvedora na Freitas Soft;
 - 🌱 Minha stack atual é HTML | CSS | JavaScript | Node;
 - 👯 Possuo alguns trabalhos desenvolvidos em grupo na faculdade;
 - 🤔 Posso te ajudar no que for necessário;
