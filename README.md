@@ -26,7 +26,7 @@
   <code><img alt="My e-mail" width="32" src="https://www.flaticon.com/svg/static/icons/svg/324/324123.svg" /></code>
 </a>
 
-### Minhas stacks
+## Minhas stacks
 
 **Aplicações e Bancos de Dados**
 
@@ -53,7 +53,7 @@
 
 <code><img height="32" src="https://cdn.iconscout.com/icon/free/png-512/trello-6-569395.png" alt="Trello"/></code>
 
-### Atividades
+## Atividades
 
 </br>
 
