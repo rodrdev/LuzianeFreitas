@@ -5,7 +5,7 @@
 ### Seja bem vindo-a em minha pagina
 
 <p>
-  Sou a Luziane, Desenvolvedora Front-end <img width="20" src="https://emojis.slackmojis.com/emojis/images/1594314885/9662/fbwow.gif?1594314885" alt="Fbwow emoji" />
+  Sou a Luziane, Desenvolvedora Front-end, mineira de Monte Belo <img width="16" src="https://www.flaticon.com/svg/static/icons/svg/197/197386.svg" alt="Brazil" />
 </p>  
 
 
