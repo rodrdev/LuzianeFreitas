@@ -11,7 +11,7 @@
 
 ### Algumas coisas sobre mim
 - 🤓 Estou no ultimo ano de Engenharia de Computação;
-- 🌱 Estou estudando HTML, CSS, JavaScript e React;
+- 🌱 Estou estudando HTML, CSS, JavaScript, React e PHP;
 - 👯 Possuo alguns trabalhos desenvolvidos em grupo na faculdade;
 - 🤔 Posso te ajudar no que for necessário;
 - 💬 Adoro jogar <img width="20" src="https://emojis.slackmojis.com/emojis/images/1589798377/9104/valorant.png?1589798377" alt="valorante emoji" /> e assistir animes <img width="20" src="https://emojis.slackmojis.com/emojis/images/1571766665/6754/anime.gif?1571766665" alt="valorante emoji" />;
